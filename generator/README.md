@@ -8,8 +8,19 @@
   <a href="https://github.com/jackdaniels23-ar?tab=repositories"><img alt="Repositories" src="https://img.shields.io/github/repos/jackdaniels23-ar?style=for-the-badge&label=Repos&labelColor=07110e&color=2aff8a"></a>
   <a href="https://github.com/jackdaniels23-ar?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/jackdaniels23-ar?style=for-the-badge&label=Followers&labelColor=07110e&color=42c8ff"></a>
   <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=jackdaniels23-ar&style=for-the-badge&label=Visitors&color=2aff8a">
+  <img alt="Release version" src="https://img.shields.io/badge/SHADOW%20TERMINAL-v1.0.0%20Build%202026.07-42c8ff?style=for-the-badge&labelColor=07110e">
   <img alt="Shadow AI status" src="https://img.shields.io/badge/SHADOW_AI-ONLINE-2aff8a?style=for-the-badge&labelColor=07110e">
 </p>
+
+<a id="release"></a>
+
+## root@shadowlinux:~$ release --version
+
+| Version | Change |
+| --- | --- |
+| v1.0.0 | Shadow Terminal profile release |
+| v1.5 | Boot animation, quote rotation, timeline, badges |
+| v2.0 | Dedicated Shadow Terminal portfolio site |
 
 <a id="whoami"></a>
 

@@ -31,7 +31,7 @@
 <rect x="28" y="28" width="1144" height="384" rx="16" class="panel"/>
 <rect x="44" y="50" width="1112" height="36" rx="10" fill="#0e1f18" stroke="#1bdc76" opacity=".9"/>
 <circle cx="70" cy="68" r="6" fill="#ff5f56"/><circle cx="92" cy="68" r="6" fill="#ffbd2e"/><circle cx="114" cy="68" r="6" fill="#27c93f"/>
-<text x="570" y="73" text-anchor="middle" class="muted">root@shadowlinux:~ <tspan fill="#2aff8a">ONLINE</tspan></text>
+<text x="570" y="73" text-anchor="middle" class="muted">SHADOW TERMINAL v1.0.0 // Build 2026.07 // <tspan fill="#2aff8a">ONLINE</tspan></text>
 <text class="type"><tspan x="70" y="132">root@shadowlinux:~$</tspan><tspan class="cursor"> &#9608;</tspan></text>
 <text class="typing"><tspan x="70" y="168" opacity="0">BIOS v1.0<animate attributeName="opacity" values="0;1;1;0" dur="16.2s" begin="0s" repeatCount="indefinite"/></tspan>
 <tspan x="70" y="168" opacity="0">Checking Memory........OK<animate attributeName="opacity" values="0;1;1;0" dur="16.2s" begin="1.8s" repeatCount="indefinite"/></tspan>

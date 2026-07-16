@@ -137,7 +137,7 @@ function bannerSvg() {
 <rect x="28" y="28" width="1144" height="384" rx="16" class="panel"/>
 <rect x="44" y="50" width="1112" height="36" rx="10" fill="#0e1f18" stroke="#1bdc76" opacity=".9"/>
 <circle cx="70" cy="68" r="6" fill="#ff5f56"/><circle cx="92" cy="68" r="6" fill="#ffbd2e"/><circle cx="114" cy="68" r="6" fill="#27c93f"/>
-<text x="570" y="73" text-anchor="middle" class="muted">root@${profile.terminalHost}:~ <tspan fill="#2aff8a">ONLINE</tspan></text>
+<text x="570" y="73" text-anchor="middle" class="muted">${profile.release.name} ${profile.release.version} // Build ${profile.release.build} // <tspan fill="#2aff8a">ONLINE</tspan></text>
 <text class="type">${linesToTspans(boot, 70, 132, 35)}<tspan class="cursor"> &#9608;</tspan></text>
 <text class="typing">${typingTspans(profile.bannerSequence)}</text>
 <text class="muted">${linesToTspans(monitor, 70, 252, 30)}</text>
@@ -287,6 +287,9 @@ function readme() {
   const timelineRows = profile.timeline
     .map(([year, event]) => `| ${year} | ${event} |`)
     .join("\n");
+  const changelogRows = profile.release.changelog
+    .map(([version, summary]) => `| ${version} | ${summary} |`)
+    .join("\n");
   const commands = profile.commands
     .map(([cmd, href]) => `<a href="${href}"><code>${cmd}</code></a>`)
     .join(" | ");
@@ -301,8 +304,17 @@ function readme() {
   <a href="https://github.com/${profile.username}?tab=repositories"><img alt="Repositories" src="https://img.shields.io/github/repos/${profile.username}?style=for-the-badge&label=Repos&labelColor=07110e&color=2aff8a"></a>
   <a href="https://github.com/${profile.username}?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/${profile.username}?style=for-the-badge&label=Followers&labelColor=07110e&color=42c8ff"></a>
   <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=${profile.username}&style=for-the-badge&label=Visitors&color=2aff8a">
+  <img alt="Release version" src="https://img.shields.io/badge/${encodeURIComponent(profile.release.name)}-${encodeURIComponent(`${profile.release.version} Build ${profile.release.build}`)}-42c8ff?style=for-the-badge&labelColor=07110e">
   <img alt="Shadow AI status" src="https://img.shields.io/badge/SHADOW_AI-ONLINE-2aff8a?style=for-the-badge&labelColor=07110e">
 </p>
+
+<a id="release"></a>
+
+## root@${profile.terminalHost}:~$ release --version
+
+| Version | Change |
+| --- | --- |
+${changelogRows}
 
 <a id="whoami"></a>
 

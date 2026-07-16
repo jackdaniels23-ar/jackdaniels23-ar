@@ -5,6 +5,16 @@
   "headline": "Cyber Forensics Student | AI Developer | Building Shadow Linux",
   "terminalHost": "shadowlinux",
   "portfolioUrl": "https://shadowlinux.dev",
+  "release": {
+    "name": "SHADOW TERMINAL",
+    "version": "v1.0.0",
+    "build": "2026.07",
+    "changelog": [
+      ["v1.0.0", "Shadow Terminal profile release"],
+      ["v1.5", "Boot animation, quote rotation, timeline, badges"],
+      ["v2.0", "Dedicated Shadow Terminal portfolio site"]
+    ]
+  },
   "bannerSequence": [
     "BIOS v1.0",
     "Checking Memory........OK",
