@@ -9,17 +9,19 @@
 <h1 align="center">Hello, I'm YOUR_USERNAME 👋</h1>
 
 <p align="center">
-  Cybersecurity enthusiast • Linux tinkerer • CTF player • AI automation builder
+  Cybersecurity enthusiast • Linux explorer • CTF player • AI builder
 </p>
+
+> Replace YOUR_USERNAME and the contact details below with your real GitHub username and email before publishing.
 
 ## About me
 
-I am focused on building practical security tooling, exploring Linux internals, and turning ideas into resilient systems. My interests span:
+I focus on building practical security tooling, exploring Linux internals, and turning ideas into resilient systems. My interests span:
 
 - Shadow Linux
 - Shadow AI
-- CTFs and red team workflows
-- Cyber forensics and threat analysis
+- CTFs and security research
+- Cyber forensics and investigations
 - Automation and developer tooling
 
 ## GitHub stats
