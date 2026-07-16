@@ -6,13 +6,11 @@
   </picture>
 </p>
 
-<h1 align="center">Hello, I'm YOUR_USERNAME 👋</h1>
+<h1 align="center">Hello, I'm aadhil 👋</h1>
 
 <p align="center">
   Cybersecurity enthusiast • Linux explorer • CTF player • AI builder
 </p>
-
-> Replace YOUR_USERNAME and the contact details below with your real GitHub username and email before publishing.
 
 ## About me
 
@@ -27,21 +25,21 @@ I focus on building practical security tooling, exploring Linux internals, and t
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadhil&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=aadhil&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhil&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aadhil/aadhil/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## Connect
 
-- GitHub: YOUR_USERNAME
+- GitHub: aadhil
 - Email: you@example.com
