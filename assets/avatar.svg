@@ -1,0 +1,9 @@
+<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+<defs><filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="420" height="420" rx="44" fill="#020604"/>
+<path d="M210 58 326 125v134L210 326 94 259V125L210 58Z" fill="#07110e" stroke="#2aff8a" stroke-width="5" filter="url(#g)"/>
+<path d="M210 92 292 140v96l-82 48-82-48v-96l82-48Z" fill="none" stroke="#42c8ff" stroke-width="4" opacity=".9"/>
+<path d="M156 234h108M174 260h72M168 174l42-25 42 25M168 202l42 25 42-25" stroke="#2aff8a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="210" y="84" text-anchor="middle" font-family="Consolas,monospace" font-size="28" font-weight="800" fill="#c8ffe1">SHADOW</text>
+<text x="210" y="372" text-anchor="middle" font-family="Consolas,monospace" font-size="20" font-weight="700" fill="#67ffa5">LINUX</text>
+</svg>

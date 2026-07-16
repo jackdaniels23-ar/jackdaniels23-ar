@@ -454,6 +454,55 @@ Update real CTF progress in \`config/profile.json\`, then run \`npm run build\`.
   <a href="https://github.com/${profile.username}"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-${profile.username}-2aff8a?style=for-the-badge&logo=github&labelColor=07110e"></a>
   <a href="${profile.portfolioUrl}"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Shadow_Terminal-42c8ff?style=for-the-badge&labelColor=07110e"></a>
 </p>
+
+<a id="shadow-terminal"></a>
+
+## root@${profile.terminalHost}:~$ cat shadow-terminal.md
+
+Shadow Terminal is a cyberpunk-style GitHub profile generator that creates terminal-themed profile READMEs with ASCII portraits, animated SVGs, GitHub stats, and GitHub Actions.
+
+### Features
+
+- Terminal-style GitHub profile
+- ASCII portrait support
+- Shadow Linux branding
+- Boot animation
+- GitHub stats integration
+- Contribution snake
+- GitHub trophies
+- Config-driven generator
+- GitHub Actions automation
+
+### Installation
+
+\`\`\`powershell
+cd generator
+npm install
+\`\`\`
+
+### Usage
+
+\`\`\`powershell
+npm run build
+npm test
+\`\`\`
+
+### Example Output
+
+\`\`\`txt
+root@${profile.terminalHost}:~$ whoami
+${profile.username}
+
+root@${profile.terminalHost}:~$ cat about.txt
+${profile.aboutLines.join("\n")}
+\`\`\`
+
+### Roadmap
+
+- v1.1.0: UI improvements
+- v1.5.0: Live metrics and real CTF progress
+- v2.0.0: Shadow AI Edition
+- v3.0.0: Portfolio website
 `;
 }
 

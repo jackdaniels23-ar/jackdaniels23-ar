@@ -1,0 +1,14 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .title{font:800 34px Consolas,Monaco,monospace;fill:#06351f}
+  .line{font:700 20px Consolas,Monaco,monospace;fill:#146f45}
+  .blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="1200" height="240" rx="14" fill="#f6fff9" stroke="#008f4f" stroke-width="2"/>
+<text x="46" y="62" class="title">SHADOW AI // STATUS: ONLINE</text>
+<text class="line"><tspan x="46" y="106">CPU        ████████░░ 82%</tspan>
+<tspan x="46" y="134">RAM        ██████░░░░ 64%</tspan>
+<tspan x="46" y="162">DISK       █████████░ 91%</tspan>
+<tspan x="46" y="190">NETWORK    CONNECTED</tspan></text>
+<text x="46" y="214" class="line">root@shadowlinux:~$ <tspan class="blink">&#9608;</tspan></text>
+</svg>

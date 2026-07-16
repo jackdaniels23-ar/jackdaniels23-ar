@@ -1,0 +1,15 @@
+<svg width="1200" height="96" viewBox="0 0 1200 96" xmlns="http://www.w3.org/2000/svg">
+<style>
+  rect{fill:#020604;stroke:#2aff8a;stroke-width:2}
+  text{font:800 25px Consolas,Monaco,monospace;fill:#c8ffe1;text-anchor:middle}
+</style>
+<rect x="1" y="1" width="1198" height="94" rx="12"/>
+<text><tspan x="600" y="58" opacity="0">Stay low.<animate attributeName="opacity" values="0;1;1;0" dur="20s" begin="0s" repeatCount="indefinite"/></tspan>
+<tspan x="600" y="58" opacity="0">Think high.<animate attributeName="opacity" values="0;1;1;0" dur="20s" begin="2.5s" repeatCount="indefinite"/></tspan>
+<tspan x="600" y="58" opacity="0">Code everything.<animate attributeName="opacity" values="0;1;1;0" dur="20s" begin="5s" repeatCount="indefinite"/></tspan>
+<tspan x="600" y="58" opacity="0">Hack ethically.<animate attributeName="opacity" values="0;1;1;0" dur="20s" begin="7.5s" repeatCount="indefinite"/></tspan>
+<tspan x="600" y="58" opacity="0">Build responsibly.<animate attributeName="opacity" values="0;1;1;0" dur="20s" begin="10s" repeatCount="indefinite"/></tspan>
+<tspan x="600" y="58" opacity="0">Learn continuously.<animate attributeName="opacity" values="0;1;1;0" dur="20s" begin="12.5s" repeatCount="indefinite"/></tspan>
+<tspan x="600" y="58" opacity="0">There is no finish line.<animate attributeName="opacity" values="0;1;1;0" dur="20s" begin="15s" repeatCount="indefinite"/></tspan>
+<tspan x="600" y="58" opacity="0">Only the next challenge.<animate attributeName="opacity" values="0;1;1;0" dur="20s" begin="17.5s" repeatCount="indefinite"/></tspan></text>
+</svg>
