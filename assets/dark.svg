@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-label="Cyber profile banner">
+  <defs>
+    <linearGradient id="bgDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060816"/>
+      <stop offset="100%" stop-color="#111A33"/>
+    </linearGradient>
+    <linearGradient id="accentDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="400" fill="url(#bgDark)"/>
+  <rect x="40" y="40" width="1520" height="320" rx="24" fill="#09101F" stroke="#2D3A5C" stroke-width="2"/>
+  <g opacity="0.2" stroke="#4FD1C5" stroke-width="1">
+    <path d="M80 80H1520"/>
+    <path d="M80 140H1520"/>
+    <path d="M80 200H1520"/>
+    <path d="M80 260H1520"/>
+    <path d="M80 320H1520"/>
+    <path d="M120 60V340"/>
+    <path d="M220 60V340"/>
+    <path d="M320 60V340"/>
+    <path d="M420 60V340"/>
+    <path d="M520 60V340"/>
+    <path d="M620 60V340"/>
+    <path d="M720 60V340"/>
+    <path d="M820 60V340"/>
+    <path d="M920 60V340"/>
+    <path d="M1020 60V340"/>
+    <path d="M1120 60V340"/>
+    <path d="M1220 60V340"/>
+    <path d="M1320 60V340"/>
+    <path d="M1420 60V340"/>
+  </g>
+  <circle cx="1260" cy="140" r="100" fill="none" stroke="url(#accentDark)" stroke-width="2" opacity="0.4"/>
+  <circle cx="1260" cy="140" r="70" fill="none" stroke="#00E5FF" stroke-width="2" opacity="0.8"/>
+  <path d="M1240 120L1260 100L1280 120L1260 180Z" fill="#00E5FF" opacity="0.9"/>
+  <path d="M1228 136L1260 112L1292 136L1260 190Z" fill="#8B5CF6" opacity="0.9"/>
+  <text x="120" y="170" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">SHADOW LABS</text>
+  <text x="120" y="220" fill="#8BE9FD" font-family="Segoe UI, Arial, sans-serif" font-size="26">Linux • AI • CTFs • Cyber Forensics</text>
+  <rect x="120" y="250" width="420" height="4" rx="2" fill="url(#accentDark)"/>
+  <text x="120" y="295" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24">Build. Analyze. Defend.</text>
+</svg>
