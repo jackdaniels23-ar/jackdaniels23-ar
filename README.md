@@ -1,45 +1,80 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img src="./assets/dark.svg" width="100%">
-  </picture>
-</p>
+# \# 👋 Hi, I'm Aadhil
 
-<h1 align="center">Hello, I'm aadhil 👋</h1>
+# 
 
-<p align="center">
-  Cybersecurity enthusiast • Linux explorer • CTF player • AI builder
-</p>
+# \## 🚀 Cyber Forensics \& Information Security Student
 
-## About me
+# 
 
-I focus on building practical security tooling, exploring Linux internals, and turning ideas into resilient systems. My interests span:
+# 💻 Cyber Security Enthusiast
 
-- Shadow Linux
-- Shadow AI
-- CTFs and security research
-- Cyber forensics and investigations
-- Automation and developer tooling
+# 
 
-## GitHub stats
+# 🐧 Linux User
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadhil&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=aadhil&theme=tokyonight" alt="GitHub streak" />
-</p>
+# 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhil&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+# 🛡 Building Shadow Linux
 
-## Activity
+# 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aadhil/aadhil/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+# 🤖 AI Developer
 
-## Connect
+# 
 
-- GitHub: aadhil
-- Email: you@example.com
+# 🏴 CTF Player
+
+# 
+
+# \---
+
+# 
+
+# \## 💻 Languages
+
+# 
+
+# \- Python
+
+# \- C
+
+# \- Java
+
+# \- HTML
+
+# \- CSS
+
+# \- JavaScript
+
+# 
+
+# \---
+
+# 
+
+# \## 🔐 Interests
+
+# 
+
+# \- Penetration Testing
+
+# \- Malware Analysis
+
+# \- Digital Forensics
+
+# \- AI
+
+# \- Linux
+
+# 
+
+# \---
+
+# 
+
+# \## 📫 Contact
+
+# 
+
+# GitHub: https://github.com/jackdaniels23-ar
+
