@@ -1,0 +1,133 @@
+{
+  "username": "jackdaniels23-ar",
+  "name": "Aadhil",
+  "timezone": "Asia/Kolkata",
+  "headline": "Cyber Forensics Student | AI Developer | Building Shadow Linux",
+  "terminalHost": "shadowlinux",
+  "portfolioUrl": "https://shadowlinux.dev",
+  "bannerSequence": [
+    "BIOS v1.0",
+    "Checking Memory........OK",
+    "Loading Shadow Kernel...",
+    "Loading AI Core...",
+    "Loading Security Modules...",
+    "Loading Terminal...",
+    "Welcome",
+    "> whoami",
+    "> jackdaniels23-ar"
+  ],
+  "bootLines": [
+    "Booting Shadow Linux...",
+    "Loading Kernel...",
+    "Initializing AI...",
+    "Loading Modules...",
+    "READY"
+  ],
+  "systemMonitor": [
+    ["CPU", 82],
+    ["RAM", 64],
+    ["DISK", 91],
+    ["NETWORK", "CONNECTED"]
+  ],
+  "quotes": [
+    "Stay low.",
+    "Think high.",
+    "Code everything.",
+    "Hack ethically.",
+    "Build responsibly.",
+    "Learn continuously.",
+    "There is no finish line.",
+    "Only the next challenge."
+  ],
+  "badges": [
+    ["Kali Linux", "557C94", "kalilinux"],
+    ["Python", "3776AB", "python"],
+    ["Docker", "2496ED", "docker"],
+    ["Git", "F05032", "git"],
+    ["Linux", "FCC624", "linux"],
+    ["C", "A8B9CC", "c"],
+    ["Java", "ED8B00", "openjdk"],
+    ["AI", "2aff8a", "openai"],
+    ["HTB", "9FEF00", "hackthebox"],
+    ["PicoCTF", "42c8ff", "proton"]
+  ],
+  "profileSignals": [
+    ["Repositories", "Live via GitHub stats"],
+    ["Languages", "Python, C, Java, JavaScript, HTML, CSS"],
+    ["Projects", "Shadow Linux, Shadow AI, Toolkit, Resume Analyzer"],
+    ["CTFs", "HTB, PicoCTF, TryHackMe"],
+    ["Commits", "Live via GitHub stats"],
+    ["Stars", "Live via GitHub trophies"],
+    ["Followers", "Live via GitHub badge"]
+  ],
+  "aboutLines": [
+    "Cyber Forensics Student",
+    "AI Developer",
+    "Ethical Hacker",
+    "Shadow Linux Creator"
+  ],
+  "timeline": [
+    ["2024", "Started Cyber Security"],
+    ["2025", "Hack The Box"],
+    ["2026", "Shadow Linux"],
+    ["2027", "Shadow AI"]
+  ],
+  "languages": ["Python", "C", "Java", "JavaScript", "HTML", "CSS"],
+  "projects": [
+    {
+      "name": "Shadow Linux",
+      "description": "A cyber-focused Linux concept with defensive tooling, terminal workflows, and AI-assisted operations.",
+      "url": "https://github.com/jackdaniels23-ar"
+    },
+    {
+      "name": "Shadow AI",
+      "description": "Local-first AI agent experiments for security automation, triage, and productivity.",
+      "url": "https://github.com/jackdaniels23-ar"
+    },
+    {
+      "name": "Python Security Toolkit",
+      "description": "Python utilities for scanning, parsing, forensic triage, and repeatable security checks.",
+      "url": "https://github.com/jackdaniels23-ar"
+    },
+    {
+      "name": "Resume Analyzer",
+      "description": "AI-powered resume scoring and feedback for cleaner, targeted job applications.",
+      "url": "https://github.com/jackdaniels23-ar"
+    },
+    {
+      "name": "HTB Writeups",
+      "description": "Forensics, web, crypto, and reverse engineering notes from hands-on challenges.",
+      "url": "https://github.com/jackdaniels23-ar"
+    }
+  ],
+  "ctf": [
+    {
+      "platform": "HackTheBox",
+      "profileUrl": "https://app.hackthebox.com/profile/overview",
+      "rank": "Add real rank",
+      "progress": "Add machines + Sherlocks",
+      "season": "Add season progress"
+    },
+    {
+      "platform": "PicoCTF",
+      "profileUrl": "https://play.picoctf.org/users",
+      "rank": "Add real rank",
+      "progress": "Add solved challenges",
+      "season": "Add points"
+    },
+    {
+      "platform": "TryHackMe",
+      "profileUrl": "https://tryhackme.com/p/jackdaniels23-ar",
+      "rank": "Add real rank",
+      "progress": "Add rooms + badges",
+      "season": "Add streak"
+    }
+  ],
+  "commands": [
+    ["help", "#terminal"],
+    ["whoami", "#whoami"],
+    ["skills", "#skills"],
+    ["projects", "#projects"],
+    ["contact", "#contact"]
+  ]
+}

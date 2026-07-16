@@ -1,0 +1,28 @@
+name: Rebuild profile
+
+on:
+  schedule:
+    - cron: "45 18 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "config/profile.json"
+      - "generate.js"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npm run build
+      - name: Commit generated profile
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: rebuild shadow terminal profile"

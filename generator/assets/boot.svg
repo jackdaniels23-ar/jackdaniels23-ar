@@ -1,0 +1,16 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" xmlns="http://www.w3.org/2000/svg">
+<style>
+  rect{fill:#020604;stroke:#2aff8a;stroke-width:2}
+  text{font:700 23px Consolas,Monaco,monospace;fill:#c8ffe1}
+  .cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+</style>
+<rect x="1" y="1" width="1198" height="308" rx="14"/>
+<text><tspan x="46" y="54">BIOS v1.0</tspan>
+<tspan x="46" y="86">Checking Memory........OK</tspan>
+<tspan x="46" y="118">Loading Shadow Kernel...</tspan>
+<tspan x="46" y="150">Loading AI Core...</tspan>
+<tspan x="46" y="182">Loading Security Modules...</tspan>
+<tspan x="46" y="214">Loading Terminal...</tspan>
+<tspan x="46" y="246">Welcome</tspan>
+<tspan x="46" y="278">root@shadowlinux:~$</tspan><tspan class="cursor"> &#9608;</tspan></text>
+</svg>
